@@ -20,6 +20,6 @@ def vncpaste():
 keyboard.add_hotkey("ctrl+alt+v", vncpaste)
 
 print("VNCP by Truz#6978")
-print("2023/02/12 - 1.0.0")
+print("2023-02-12 - 1.0.0")
 
 keyboard.wait()
