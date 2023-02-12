@@ -20,6 +20,6 @@ def vncpaste():
 keyboard.add_hotkey("ctrl+alt+v", vncpaste)
 
 print("VNCP by Truz#6978")
-print("12/02/2022 - 1.0.0 (European date format go brrrrrrrr)")
+print("12/02/2023 - 1.0.0 (European date format go brrrrrrrr)")
 
 keyboard.wait()
