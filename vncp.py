@@ -5,8 +5,7 @@
 
 from pyperclip import paste
 from pyautogui import typewrite
-from keyboard import add_hotkey
-from keyboard import wait
+from keyboard import add_hotkey, wait
 from time import sleep
 
 
